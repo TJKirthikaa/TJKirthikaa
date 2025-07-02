@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kirthikaa T.J</h1>
-<p>A passionate frontend developer and exploring DevOps and UI/UX Designing, creating and building things have always been a source of excitement and purpose for me. I enjoy transforming ideas into intuitive interfaces and scalable solutions, while constantly learning and evolving with every project.</p>
+<p>A passionate frontend developer and Machine learning engineer, exploring DevOps and UI/UX Designing, creating and building things have always been a source of excitement and purpose for me. I enjoy transforming ideas into intuitive interfaces and scalable solutions, while constantly learning and evolving with every project.</p>
 <p>
   - 🌱 I’m currently learning DevOps, Designing and ML 
 </p>
