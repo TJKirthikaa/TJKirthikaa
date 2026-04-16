@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Kirthikaa T.J</h1>
-<p>A passionate developer and Machine learning engineer, exploring DevOps and UI/UX Designing, creating and building things have always been a source of excitement and purpose for me. I enjoy transforming ideas into intuitive interfaces and scalable solutions, while constantly learning and evolving with every project.</p>
+<p>A passionate developer and Machine learning engineer, exploring the field of web development and AI, creating and building things have always been a source of excitement and purpose for me. I enjoy transforming ideas into intuitive interfaces and scalable solutions, while constantly learning and evolving with every project.</p>
 <p>
-  - 🌱 I’m currently learning DevOps, Designing and ML 
+  - 🌱 I’m currently learning Web development, Designing and ML 
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
